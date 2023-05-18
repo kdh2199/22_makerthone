@@ -5,8 +5,8 @@
 ### summary
 
 * 인공지능 카메라 모듈 (HuskeyLens)
-  * 물체 분류 기술 (Machine Learnigng)
-  * 학습한 물체 추적 (object tracking)
+  * 물체 분류 기술 (Machine Learning)
+  * 학습한 물체 추적 (Object Tracking)
 * 아두이노 컨드롤러
   * 3축 자이로센서 (MPU-6050)
   * nRF 무선 통신 (nRF24L01)
